@@ -8,5 +8,5 @@ also by owning this (just add at the bottom of your game 'Made with assets from 
 here's a list of games in this awesome game pack:
 STC (exclusive)
 J_NAC OBBY!!! (exclusive, yet broken)
-The Border (exclusive, made for RP servers)
+The Village (exclusive, made for RP servers)
 Runner
