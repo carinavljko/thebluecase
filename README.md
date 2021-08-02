@@ -1,5 +1,4 @@
 # thebluecase
-collection of some shit fuck roblox games
 
 you need the latest version of roblox studio installed.
 this is source code for a few of my epicest games, of course I will not be adding bunker.epic as that is a WIP project, meaning that I am putting effort in a game (wow)
@@ -10,3 +9,4 @@ STC (exclusive)
 J_NAC OBBY!!! (exclusive, yet broken)
 The Village (exclusive, made for RP servers)
 Runner
+Shootee
